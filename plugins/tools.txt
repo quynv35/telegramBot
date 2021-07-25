@@ -1,0 +1,2 @@
+https://www.thepythoncode.com/code/translate-text-in-python
+https://www.thepythoncode.com/article/convert-text-to-speech-in-python
